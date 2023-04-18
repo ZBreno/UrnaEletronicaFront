@@ -1,0 +1,32 @@
+.main {
+    padding: 6rem;
+    min-height: 100vh;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.report{
+    display: flex;
+    border: 1px solid #0366E7;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .report p{
+    margin:0;
+    padding: 16px;
+  }
+  .button{
+    background-color: #0366E7;
+    margin: 0px 8px 0px 8px;
+    border: none;
+    border-radius: 8px;
+  }
+  .button p{
+    padding: 4px 12px 4px 12px;
+    color: white;
+  }

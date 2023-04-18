@@ -1,0 +1,48 @@
+.test{
+    color: black;
+}
+
+.header{
+    width: 100%;
+}
+
+
+.titleNavBar{
+    width: 120px;
+    cursor: pointer;
+    margin-right: 8px;
+    font-weight: 500;
+    color: white;
+    text-decoration: none;
+}
+.titleNavBar p{
+    margin: 0;
+}
+.titleNavBar p:hover{
+    color: black;
+    transition: .5s;
+    cursor: pointer;
+    font-weight: 600;
+}
+.ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+}
+
+.ul a{
+    margin-left: 16px;
+    font-weight: 500;
+    color: white;
+    margin: 10px 8px 10px 8px;
+    text-decoration: none;
+}
+
+.ul a:hover{
+    color: black;
+    transition: .5s;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+

@@ -1,0 +1,33 @@
+.main {
+  padding: 6rem;
+  min-height: 100vh;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dados{
+  color: black;
+  font-size: 24px;
+}
+
+.do ul{
+  list-style: none;
+  display: flex;
+}
+
+
+
+.do li{
+  margin: 16px;
+  text-align: center; 
+}
+
+.do a{
+  color: white;
+  background-color: #0366E7;
+  padding: 16px 48px 16px 48px;
+  border-radius: 8px;
+  text-decoration: none;
+}
